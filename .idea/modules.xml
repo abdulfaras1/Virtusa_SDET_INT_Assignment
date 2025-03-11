@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Maven POM file/Java_Case_Study.iml" filepath="$PROJECT_DIR$/Maven POM file/Java_Case_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Virtusa_SDET_INT_Abdussalam.iml" filepath="$PROJECT_DIR$/.idea/Virtusa_SDET_INT_Abdussalam.iml" />
+    </modules>
+  </component>
+</project>
